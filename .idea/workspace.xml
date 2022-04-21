@@ -14,7 +14,6 @@
     <list default="true" id="42cc531a-62de-45a6-a6b9-6a66a731cadd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +53,7 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="2048" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2048" TARGET_NAME="2048" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2048" RUN_TARGET_NAME="2048">
@@ -71,7 +71,9 @@
       <option name="presentableId" value="Default" />
       <updated>1645819771415</updated>
       <workItem from="1645819773783" duration="199000" />
-      <workItem from="1645819997242" duration="19000" />
+      <workItem from="1645819997242" duration="54000" />
+      <workItem from="1646163376923" duration="224000" />
+      <workItem from="1646163949664" duration="6000" />
     </task>
     <servers />
   </component>
